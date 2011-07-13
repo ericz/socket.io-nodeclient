@@ -1,3 +1,5 @@
+# Usage
+
     
     var io = require('./lib/io.js');
     
@@ -7,3 +9,5 @@
       console.log('haha');
     
     });
+
+## Only websocket transport is supported
